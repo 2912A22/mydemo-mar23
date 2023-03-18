@@ -1,0 +1,6 @@
+y demo file on demo branch
+<<<<<<< HEAD
+second lie on main brach
+=======
+second line on demo1 branch
+>>>>>>> demo1
